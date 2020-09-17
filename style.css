@@ -75,14 +75,15 @@
 
 
         #content h3 {
-            background-image: url(img/icon.png);
+            /* background-image: url(img/icon.png); */
             background-repeat: no-repeat;
             background-position: left center;
             color: #6a8125;
             padding-left: 30px;
-            margin-left: 15px;
+            /* margin-left: 15px; */
             clear: both;
             /* display: table-cell; */
+            margin-top: 70px;
         }
 
         #content p {
@@ -235,14 +236,15 @@
 
 
         #content h3 {
-            background-image: url(img/icon.png);
+            /* background-image: url(img/icon.png); */
             background-repeat: no-repeat;
             background-position: left center;
             color: #6a8125;
             clear: both;
             /* display: table-cell; */
-            padding-left: 6%;
+            /* padding-left: 6%; */
             margin-left: 4%;
+            margin-top: 20%;
         }
 
         #content p {
@@ -281,12 +283,13 @@
             width: 40%;
         }
 
-        .img01 {
-            margin-top: 90%;
+        .img-01 {
+            /* margin-top: 90%; */
+            margin-bottom: 2%;
         }
 
-        .img02 {
-            margin-top: 120%;
+        .img-02 {
+            /* margin-top: 120%; */
         }
 
 
