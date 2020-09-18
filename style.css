@@ -39,6 +39,7 @@
 
         img {
             border-style: none;
+            margin-left: 5px;
         }
 
         #menu ul {
@@ -66,11 +67,17 @@
             color: #f3a42c;
         }
 
+        img:hover {
+            opacity: 0.5;
+        }
+
+
         #content h2 {
             padding-left: 16px;
             margin-left: 70px;
             margin-top: 30px;
             margin-bottom: 30px;
+            font-size: 30px;
         }
 
 
@@ -83,7 +90,10 @@
             /* margin-left: 15px; */
             clear: both;
             /* display: table-cell; */
-            margin-top: 70px;
+            margin-top: 130px;
+            font-size: 25px;
+            margin-right: 40px;
+
         }
 
         #content p {
@@ -91,11 +101,12 @@
             padding-left: 15px;
             /* display: inline-block; */
             clear: both;
+            margin-bottom: 100px;
         }
 
         #content p img {
             float: right;
-            margin-bottom: 50px;
+            margin-bottom: 140px;
         }
 
         #footer {
@@ -121,13 +132,13 @@
             margin-right: 30px;
         }
 
-        .img01 {
+        /* .img01 {
             margin-top: 60px;
         }
 
         .img02 {
             margin-top: 70px;
-        }
+        } */
 
 
         .a {
@@ -193,7 +204,7 @@
 
         #header h1 {
             padding-top: 32px;
-            padding-left: 50px;
+            padding-left: 6%;
             font-weight: bold;
             font-size: 50px;
         }
@@ -201,6 +212,8 @@
         img {
             border-style: none;
             width: 100%;
+            margin-bottom: 2%;
+
         }
 
         #menu ul {
@@ -221,17 +234,23 @@
 
         a:link {
             text-decoration: none;
+
         }
 
         a:hover {
             color: #f3a42c;
         }
 
+        img:hover {
+            opacity: 0.5;
+        }
+
         #content h2 {
-            padding-left: 5px;
+            /* padding-left: 5px; */
             margin-left: 70px;
             padding-top: 30px;
             margin-bottom: 30px;
+            font-size: 25px;
         }
 
 
@@ -244,7 +263,10 @@
             /* display: table-cell; */
             /* padding-left: 6%; */
             margin-left: 4%;
-            margin-top: 20%;
+            margin-top: 30%;
+            font-size: 20px;
+            margin-right: 5%;
+            margin-bottom: -7px;
         }
 
         #content p {
@@ -285,7 +307,6 @@
 
         .img-01 {
             /* margin-top: 90%; */
-            margin-bottom: 2%;
         }
 
         .img-02 {
